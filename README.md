@@ -156,14 +156,15 @@ This project focuses on building dynamic **Sales and Finance Analytics Reports**
     Link: https://github.com/SayantanBera/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf
 
 * 📄 P&L Statement by Months
-    Link: https://github.com/SayantanBera/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf
-
-* 📄 P&L Statement by Markets
     Link: https://github.com/SayantanBera/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf
 
-
+* 📄 P&L Statement by Markets
+    Link: https://github.com/SayantanBera/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf
 
 *(Links aattached above)*
+
+
+**NOTE: To view the report, download the reports from the above link in your local system(If any error encountered,).
 
 
 
